@@ -7,7 +7,7 @@
 I'm a passionate fullstack developer. I love learning new technologies and applying them to solve real-world problems. 
 
 - 🌱 Currently learning: Cloud Computing
-- 💼 Working at: [GlobalWeb Corp]
+- 💼 Working at: [Banco Bradesco SA]
 - 💬 Ask me about: Angular, Java, Springboot
 - 📫 How to reach me: [mauricioalsantos@outlook.com]
 - ⚡ Fun fact: I enjoy playing games and instruments, creating games drawings and songs.
